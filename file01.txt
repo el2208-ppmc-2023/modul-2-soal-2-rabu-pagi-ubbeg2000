@@ -1,0 +1,4 @@
+gukguk,move,1
+gukguk,moverl,1
+gukguk,obstacle
+gukguk,stop

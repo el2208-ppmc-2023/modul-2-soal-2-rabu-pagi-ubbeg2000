@@ -1,0 +1,2 @@
+gukguk,move,100
+gukguk,stop

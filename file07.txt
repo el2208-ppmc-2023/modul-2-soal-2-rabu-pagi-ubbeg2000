@@ -1,0 +1,7 @@
+gukguk,move,1
+gukguk,move,2
+gukguk,move,3
+gukguk,moverl,1
+gukguk,moverl,2
+gukguk,moverl,3
+gukguk,stop

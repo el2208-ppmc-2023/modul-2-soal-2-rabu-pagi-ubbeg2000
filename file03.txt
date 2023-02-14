@@ -1,0 +1,8 @@
+gukguk,move,3.5
+gukguk,move,4.5
+gukguk,obstacle
+gukguk,moverl,3
+gukguk,move,2
+gukguk,moverl,1
+gukguk,obstacle
+gukguk,stop

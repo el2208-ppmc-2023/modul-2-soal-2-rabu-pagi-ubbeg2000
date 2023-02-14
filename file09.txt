@@ -1,0 +1,3 @@
+gukguk,move,-1
+meong,obstacle
+gukguk,stop
