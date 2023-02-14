@@ -74,7 +74,7 @@ int main()
     if (fp == NULL)
     {
         printf("File tidak ditemukan! \n");
-        return 1;
+        return 0;
     }
     readFile(fp);
     fclose(fp);
