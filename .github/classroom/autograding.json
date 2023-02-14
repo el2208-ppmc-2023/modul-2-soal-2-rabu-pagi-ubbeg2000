@@ -4,7 +4,7 @@
       "name": "1",
       "setup": "make main",
       "run": "./main",
-      "input": "file01.txt",
+      "input": "file01.txt\r\n",
       "output": "Posisi akhir: (2.00, 1.00)",
       "comparison": "included",
       "timeout": 10,
